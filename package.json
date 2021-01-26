@@ -1,0 +1,33 @@
+{
+  "name": "@marcoparrone/translate-json",
+  "version": "1.0.0",
+  "description": "Command line tool to translate a JSON file by using Google Translation",
+  "main": "translate-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node ./src/translate-json.js"
+  },
+  "bin": {
+    "translate-json": "./src/translate-json.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoparrone/translate-json.git"
+  },
+  "keywords": [
+    "l10n",
+    "i18n",
+    "localization",
+    "internationalization"
+  ],
+  "author": "Marco Parrone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcoparrone/translate-json/issues"
+  },
+  "homepage": "https://github.com/marcoparrone/translate-json#readme",
+  "dependencies": {
+    "@google-cloud/translate": "^6.1.0",
+    "prompt": "^1.1.0"
+  }
+}
