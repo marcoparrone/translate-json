@@ -2,12 +2,6 @@
 
 A command line tool to translate a JSON file by using Google Translation.
 
-## Installation
-
-```sh
-npx @marcoparrone/translate-json
-```
-
 ## Usage
 
 ```sh
