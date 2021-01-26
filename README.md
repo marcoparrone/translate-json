@@ -11,7 +11,7 @@ npx @marcoparrone/translate-json --infile=<INPUTFILE> --outdir=<OUTPUTDIR> --tar
 ## Example usage
 
 ```sh
-example: npx @marcoparrone/translate-json --infile=src/en.json --outdir=public/i18n/ --target=all
+npx @marcoparrone/translate-json --infile=src/en.json --outdir=public/i18n/ --target=all
 ```
 
 In this example, the list of the supported languages would be saved in public/i18n/languages.json (it is saved only with the option --target=all), the src/en.json file would be translated in all the supported languages, and the translations would be saved in public/i18n/languagecode.json (for example, public/i18n/it.json, etc...).
