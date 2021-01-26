@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // translate-json.js  ---  Command line tool to translate a JSON file by using Google Translation.
 
 // Copyright (c) 2021 Marco Parrone
