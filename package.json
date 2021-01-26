@@ -1,14 +1,14 @@
 {
   "name": "@marcoparrone/translate-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line tool to translate a JSON file by using Google Translation",
   "main": "translate-json.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node ./src/translate-json.js"
+    "start": "node ./src/translate-json.js"
   },
   "bin": {
-    "translate-json": "./src/translate-json.js"
+    "translate-json": "/usr/bin/env node ./src/translate-json.js"
   },
   "repository": {
     "type": "git",
