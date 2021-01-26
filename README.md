@@ -19,7 +19,7 @@ In this example, the list of the supported languages would be saved in public/i1
 ## Example JSON input file:
 
 ```sh
-$ cat  src/i18n/en.json
+$ cat  src/en.json
 {
     "text_appname": "Tic Tac Toe",
     "text_restart_label": "restart game",
