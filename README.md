@@ -15,7 +15,7 @@ translate-json needs Node.js and NPM, Node Package Manager.
 You can install translate-json locally, in this way npx doesn't have to download it and all of its dependencies every time that you need to update the translations.
 
 ```sh
-npm install --savedev @marcoparrone/translate-json
+npm i -D @marcoparrone/translate-json
 ```
 
 ## Usage
