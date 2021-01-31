@@ -1,6 +1,6 @@
 {
   "name": "@marcoparrone/translate-json",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Command line tool to translate a JSON file by using Google Translation",
   "main": "src/translate-json.js",
   "scripts": {

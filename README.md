@@ -2,13 +2,13 @@
 
 A command line tool to translate a JSON file by using Google Translation.
 
-To use the tool, a Google Cloud Platform account and API key is needed.
-
-You can either use it direcly with npx, or you can install it locally.
-
 ## Prerequisites
 
 translate-json needs Node.js and NPM, Node Package Manager.
+
+To use the tool, a Google Cloud Platform account and API key is needed.
+
+The translations will be eventually billed on your account, check with Google for terms and conditions: https://cloud.google.com/translate/pricing
 
 ## Installation
 
